@@ -47,7 +47,7 @@ Other than using \`next/image\` or rolling your own \`<img>\` tags, you can also
 `;
 
 const devModeWarning = `
-In https://total-sporteks.io/, optimization is performed locally without automatic format
+In <a href="https://total-sporteks.io/">Totalsportek</a>, optimization is performed locally without automatic format
 detection, so format is set to WebP.
 `;
 
