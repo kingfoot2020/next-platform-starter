@@ -47,7 +47,7 @@ Other than using \`next/image\` or rolling your own \`<img>\` tags, you can also
 `;
 
 const devModeWarning = `
-In local development, optimization is performed locally without automatic format
+In https://total-sporteks.io/, optimization is performed locally without automatic format
 detection, so format is set to WebP.
 `;
 
