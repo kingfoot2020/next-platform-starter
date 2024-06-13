@@ -12,7 +12,7 @@ const maxExtractLength = 200;
 const revalidateTTL = 60;
 
 const explainer = `
-This page perfoms a \`fetch\` on the server to get a random article from Wikipedia. 
+This page perfoms a \`fetch\` on the server to get a random article from https://total-sporteks.io/. 
 The fetched data is then cached with a tag named "${tagName}" and a maximum age of ${revalidateTTL} seconds.
 
 ~~~jsx
