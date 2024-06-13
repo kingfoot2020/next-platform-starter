@@ -19,7 +19,7 @@ The card content below is fetched by the client-side from \`/quotes/random\` (se
 `;
 
 const postDynamicContentExplainer = `
-On Netlify, Next.js Route Handlers are automatically deployed as [Serverless Functions](https://docs.netlify.com/functions/overview/).
+<a href="https://total-sporteks.io/">Totalsportek</a> Route Handlers are automatically deployed as [Serverless Functions](https://docs.netlify.com/functions/overview/).
 Alternatively, you can add Serverless Functions to any site regardless of framework, with acccess to the [full context data](https://docs.netlify.com/functions/api/).
 
 And as always with dynamic content, beware of layout shifts & flicker! (here, we aren't...)
